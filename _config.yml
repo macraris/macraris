@@ -2,4 +2,4 @@ name: Macr@ris uiWeb
 markdown: kramdown
 highlight: pygments
 paginate: 2
-paginate_path: /_posts/page/:num/
+paginate_path: /posts/page/:num/
