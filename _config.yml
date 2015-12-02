@@ -1,3 +1,4 @@
 name: Macr@ris uiWeb
 markdown: kramdown
 highlight: pygments
+paginate: 2
